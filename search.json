@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nours-notebooks",
+    "section": "",
+    "text": "I hope that this would be a good start for experimenting in python and notebook.",
+    "crumbs": [
+      "nours-notebooks"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nours-notebooks",
+    "section": "Install",
+    "text": "Install\npip install nours_notebooks",
+    "crumbs": [
+      "nours-notebooks"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nours-notebooks",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "nours-notebooks"
+    ]
+  },
+  {
+    "objectID": "probablistic_state_estimation.html",
+    "href": "probablistic_state_estimation.html",
+    "title": "Probabilistic State Estimation",
+    "section": "",
+    "text": "source\n\nDDist\n\n DDist (dictionary)\n\nInitialize self. See help(type(self)) for accurate signature.",
+    "crumbs": [
+      "Probabilistic State Estimation"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "The reference",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello(\"Isaac\")\n\n'Hello Isaac!'\n\n\n\nfrom fastcore.test import *\ntest_eq(say_hello(\"Hamel\"), \"Hello Hamel!\")\n\n\nsource\n\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "The reference"
+    ]
+  }
+]
