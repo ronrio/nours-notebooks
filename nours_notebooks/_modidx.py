@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://ronrio.github.io',
                 'git_url': 'https://github.com/ronrio/nours-notebooks',
                 'lib_path': 'nours_notebooks'},
-  'syms': {'nours_notebooks.core': {'nours_notebooks.core.foo': ('core.html#foo', 'nours_notebooks/core.py')}}}
+  'syms': { 'nours_notebooks.core': { 'nours_notebooks.core.foo': ('core.html#foo', 'nours_notebooks/core.py'),
+                                      'nours_notebooks.core.say_hello': ('core.html#say_hello', 'nours_notebooks/core.py')}}}
