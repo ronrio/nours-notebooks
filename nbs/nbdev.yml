@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nours-notebooks"
+  site-url: "https://ronrio.github.io/nours-notebooks"
+  description: "This is my personal notebook"
+  repo-branch: master
+  repo-url: "https://github.com/ronrio/nours-notebooks"
