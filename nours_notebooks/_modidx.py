@@ -6,4 +6,8 @@ d = { 'settings': { 'branch': 'master',
                 'git_url': 'https://github.com/ronrio/nours-notebooks',
                 'lib_path': 'nours_notebooks'},
   'syms': { 'nours_notebooks.core': { 'nours_notebooks.core.foo': ('core.html#foo', 'nours_notebooks/core.py'),
-                                      'nours_notebooks.core.say_hello': ('core.html#say_hello', 'nours_notebooks/core.py')}}}
+                                      'nours_notebooks.core.say_hello': ('core.html#say_hello', 'nours_notebooks/core.py')},
+            'nours_notebooks.probabilistic_state_estimation': { 'nours_notebooks.probabilistic_state_estimation.DDist': ( 'probablistic_state_estimation.html#ddist',
+                                                                                                                          'nours_notebooks/probabilistic_state_estimation.py'),
+                                                                'nours_notebooks.probabilistic_state_estimation.DDist.__init__': ( 'probablistic_state_estimation.html#ddist.__init__',
+                                                                                                                                   'nours_notebooks/probabilistic_state_estimation.py')}}}
